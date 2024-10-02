@@ -1,5 +1,5 @@
-streamlit==1.39.0
-opencv-python==4.2.0.32
+streamlit
+opencv-python
 openpyxl
 pandas
 numpy
