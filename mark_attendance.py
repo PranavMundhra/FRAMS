@@ -1,4 +1,4 @@
-import cv2
+import opencv-python
 import os
 from openpyxl import load_workbook
 from datetime import datetime, timedelta
