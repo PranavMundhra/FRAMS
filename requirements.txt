@@ -1,5 +1,5 @@
 streamlit==1.39.0
-cv2
+opencv-python
 openpyxl
 pandas
 numpy
