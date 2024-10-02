@@ -4,4 +4,3 @@ Pillow
 openpyxl
 pandas
 numpy
-python==3.8
