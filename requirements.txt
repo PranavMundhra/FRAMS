@@ -3,3 +3,6 @@ opencv-python
 openpyxl
 pandas
 numpy
+cv2
+threading
+tkinter
