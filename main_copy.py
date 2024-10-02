@@ -14,7 +14,7 @@ def main():
 
 def collect_data():
     try:
-        subprocess.run(["python", "collect_data.py"])
+        subprocess.run(["python", "data.py"])
         st.success("Data collection completed.")
     except Exception as e:
         st.error(f"Failed to execute collect_data.py: {e}")
