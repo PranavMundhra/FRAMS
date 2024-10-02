@@ -3,5 +3,4 @@ opencv-python
 openpyxl
 pandas
 numpy
-threading
 tkinter
